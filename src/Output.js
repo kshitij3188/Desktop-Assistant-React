@@ -59,7 +59,7 @@ function Output() {
       command: "(What's) (What is) your name",
       callback: () => {
         resetTranscript();
-        setMessage("My name's Aether");
+        setMessage("My name's Hazel");
       },
       matchInterim: true,
     },
